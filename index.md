@@ -5,8 +5,8 @@
 layout: default
 ---
 
-# Soon
+# Comming Soon
 
-Our landing page is comming soon
+Our Page is under contstruction
 
 
