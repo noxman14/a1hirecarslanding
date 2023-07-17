@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Soon is a *coming soon* page for you next Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Our Page is under contstruction and will soon be updated.
 
 You can find the source code for `Soon` here:
 [jekyll][jekyll-organization] /
