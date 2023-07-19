@@ -5,8 +5,8 @@
 layout: default
 ---
 
-# Comming Soon
+# Coming Soon
 
-Our Page is under contstruction
+Our Page is under construction
 
 
