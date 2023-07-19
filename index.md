@@ -9,4 +9,6 @@ layout: default
 
 Our Page is under construction
 
+![logo](/images/logo.jpg)
+
 
