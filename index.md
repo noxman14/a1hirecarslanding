@@ -9,6 +9,6 @@ layout: default
 
 Our Page is under construction
 
-![logo](/images/a1logo.jpg)
+![logo](/images/a1logo.bmp)
 
 
